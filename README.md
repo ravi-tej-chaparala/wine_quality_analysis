@@ -1,3 +1,3 @@
 # Wine Quality Analysis
 
-Comparing five different machine learning models to see which model gives the highest accuracy in predicting the quality of wine. And also which features contribute the most for the wine to be of good quality.
+Comparing different classification models to see which model gives the highest accuracy in predicting the quality of the wine. And also which features contribute the most to the wine for it to be of good quality.
